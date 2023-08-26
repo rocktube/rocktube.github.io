@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[10],{588:function(e,n,t){"use strict";t.r(n);var s=t(0),a=t.n(s),i=t(337),o=t(57),c={shortname:"docus-valleyease",config:{url:"https://valleyease.me",identifier:"docus",title:"Documentaries"}};n.default=function(){return Object(o.h)("Comment | Valley"),a.a.createElement(i.DiscussionEmbed,c)}}}]);
+//# sourceMappingURL=10.e91f018b.chunk.js.map
